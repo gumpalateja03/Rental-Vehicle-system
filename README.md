@@ -1,17 +1,18 @@
-# Vehicle Rental System
+## Getting Started
 
-## Description
-The Vehicle Rental System is a web application developed in Java that facilitates the renting of vehicles. Users can browse available vehicles, make reservations, and manage their bookings. This project employs essential data structures for efficient data processing and utilizes a relational database for persistent data storage.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Features
-- **User Registration and Authentication**: Secure sign-up and login for customers and administrators.
-- **Vehicle Listings**: View available vehicles with details, including type, model, and rental prices.
-- **Reservation System**: Users can reserve vehicles and manage their bookings.
-- **Admin Dashboard**: Administrators can add, update, or remove vehicles and manage user accounts.
-- **Search and Filter Options**: Easily find vehicles based on type, availability, and price.
+## Folder Structure
 
-## Technologies Used
-- **Programming Language**: Java
-- **Data Structures**: Implemented to enhance data retrieval and management.
-- **Database Management**: MySQL (or any preferred DBMS) for data storage.
+The workspace contains two folders by default, where:
 
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
